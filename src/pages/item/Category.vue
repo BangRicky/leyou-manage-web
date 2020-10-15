@@ -20,7 +20,7 @@
     data() {
       return {
         isEdit:true,
-        treeData
+        // treeData
       }
     },
     methods: {
